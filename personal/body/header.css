@@ -1,0 +1,58 @@
+/**
+ * Created by PhpStorm.
+ * User: Sumo Stephane
+ * Tools: Xampp, Photoshop
+ * Date: 03/02/2018
+ * Time: 21:30
+ */
+#wrap{
+  background-color: green;
+  font-family: serif;
+  font-size: 17px;
+  width: 100%;
+}
+#header{
+  display: inline-flex;
+  background-color: green;
+  padding: 0px 10px 0px 10px;  
+}
+
+#menunav{
+  background-color: #2f3542;
+  color: silver;
+  padding: 20px 2px 10px 20px;
+  margin: 0px 10px 0px 10px;
+  border-radius: 5px 5px 5px 5px;
+}
+
+.magic{
+  background-color: black;
+  color: white;
+  margin: 2px 10px 2px 8px;
+  padding: 20px 2px 8px 2px;
+}
+
+.magic1{
+  margin: 2px 10px 2px 10px;
+  padding: 2px 2px 2px 2px;
+}
+
+.magic2{
+  margin: 2px 10px 2px 0px;
+  padding: 0px;
+}
+
+.magic3{
+  margin: 2px 800px 2px 0px;
+  padding: 2px 2px 2px 2px;
+}
+
+.magic4{
+  margin: 2px 20px 2px 0px;
+  padding: 2px 2px 2px 2px;
+}
+
+.magic5{
+  margin: 2px 2px 2px 0px;
+  padding: 2px 2px 2px 2px;
+}

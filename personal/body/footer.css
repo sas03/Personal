@@ -1,0 +1,26 @@
+/**
+ * Created by PhpStorm.
+ * User: Sumo Stephane
+ * Tools: Xampp, Photoshop
+ * Date: 03/02/2018
+ * Time: 21:30
+ */
+#footer{
+  background-color: #2f3542;
+  color: silver;
+  text-align: center;
+  padding: 10px 0px 20px 0px;
+}
+
+.horizontal{
+  margin: 10px 100px 10px 100px;
+}
+
+.foot{
+  text-decoration: none;
+  color: silver;
+}
+
+.foot:hover{
+  text-decoration: underline;
+}
